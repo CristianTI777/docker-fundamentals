@@ -11,6 +11,7 @@ Repositório dedicado ao estudo prático e aprofundado dos fundamentos de Docker
 | **01** | [Persistência de Dados com Volumes](./01-persistencia-volumes/) | Nginx, Docker Volumes | Demonstração prática da camada efêmera e montagem de volumes gerenciados. |
 | **02** | [Persistência com SQLite e Flask](./02-volume-python-flask/) | Python 3.11, Flask, SQLite | Persistência de banco de dados relacional e compartilhamento de volumes via `--volumes-from`. |
 | **03** | [Comunicação e Redes Customizadas](./03-redes-customizadas/) | Nginx, Docker Network, Ping | Comunicação entre contêineres via bridge, inspeção de IP e testes de resolução DNS. |
+| **04** | [Redes Customizadas e Port Binding](./04-redes-e-portas/) | Nginx, Bridge Driver, Port Mapping | Gerenciamento de sub-redes, anexo dinâmico de contêineres e publicação de portas (`-p`, `-P` e restrição de loopback). |
 
 ---
 
